@@ -28,12 +28,18 @@ Me encanta explorar nuevas tecnologías, optimizar bases de datos y asegurar que
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
 
-### Bases de Datos e Infraestructura
+### Testing, Infraestructura y Monitoreo
+<p align="left">
+  <img src="https://img.shields.io/badge/Mockito-78A153?style=for-the-badge&logo=mocking&logoColor=white" alt="Mockito" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+### Bases de Datos
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
@@ -48,9 +54,10 @@ Participé activamente en el desarrollo de **HERMES**, un sistema de carnetizaci
 ---
 
 ## 🎯 En lo que me enfoco hoy en día
+* 🧪 **Testing en Java:** Aplicando **Mockito** para simular comportamientos y garantizar la calidad de los desarrollos mediante pruebas unitarias sólidas.
+* 📈 **Observabilidad y Monitoreo:** Integrando herramientas como **Grafana** para analizar el rendimiento del software y detectar anomalías.
 * 🐳 **Especializándome en Docker:** Aprendiendo a implementar contenedores, optimizar entornos de desarrollo y desplegar aplicaciones de forma segura.
 * 🗄️ **Dominando Oracle DB:** Expandiendo mis habilidades en bases de datos relacionales orientadas al sector empresarial.
-* 🔒 **Ruta de aprendizaje:** Estudiando patrones de diseño (Arquitectura), estrategias de pruebas (Testing) y bastionado de aplicaciones (Ciberseguridad).
 
 ---
 
