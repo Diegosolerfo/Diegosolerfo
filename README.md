@@ -48,7 +48,6 @@ Me encanta explorar nuevas tecnologías, optimizar bases de datos y asegurar que
 Considero que escribir buen código implica planificar cómo interactúan sus partes. He explorado y aplicado activamente:
 * **Estilos Arquitectónicos:** Arquitectura Hexagonal (Ports & Adapters) para desacoplar la lógica de negocio, y Arquitectura tradicional en Capas (*Layered Architecture*).
 * **Modelado y Documentación:** Uso del **Modelo C4** para visualizar y documentar de manera efectiva la arquitectura del software en diferentes niveles de abstracción.
-* **Patrones de Diseño:** Implementación de patrones estructurales como **Adapter** para facilitar la integración entre interfaces incompatibles.
 
 ---
 
@@ -74,7 +73,7 @@ Participé activamente en el desarrollo de **HERMES**, un sistema de carnetizaci
 Si tienes un proyecto interesante, buscas un desarrollador con iniciativa y ganas de aportar valor, o simplemente quieres charlar de tecnología:
 
 * 📧 **Correo Electrónico:** [diegosolerfo02@gmail.com](mailto:diegosolerfo02@gmail.com)
-* 💼 **LinkedIn:** *(¡Próximamente disponible!)*
+* 💼 **LinkedIn:** www.linkedin.com/in/diego-soler-080495391
 
 ---
 
