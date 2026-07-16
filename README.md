@@ -28,7 +28,7 @@ Me encanta explorar nuevas tecnologías, optimizar bases de datos y asegurar que
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
 
-### Testing, Infraestructura y Monitoreo
+### Arquitectura, Testing y Monitoreo
 <p align="left">
   <img src="https://img.shields.io/badge/Mockito-78A153?style=for-the-badge&logo=mocking&logoColor=white" alt="Mockito" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
@@ -44,6 +44,14 @@ Me encanta explorar nuevas tecnologías, optimizar bases de datos y asegurar que
 
 ---
 
+## 🏛️ Arquitectura y Patrones de Diseño
+Considero que escribir buen código implica planificar cómo interactúan sus partes. He explorado y aplicado activamente:
+* **Estilos Arquitectónicos:** Arquitectura Hexagonal (Ports & Adapters) para desacoplar la lógica de negocio, y Arquitectura tradicional en Capas (*Layered Architecture*).
+* **Modelado y Documentación:** Uso del **Modelo C4** para visualizar y documentar de manera efectiva la arquitectura del software en diferentes niveles de abstracción.
+* **Patrones de Diseño:** Implementación de patrones estructurales como **Adapter** para facilitar la integración entre interfaces incompatibles.
+
+---
+
 ## 🚀 Proyecto Destacado
 
 ### 💳 Proyecto HERMES (SENA)
@@ -54,9 +62,9 @@ Participé activamente en el desarrollo de **HERMES**, un sistema de carnetizaci
 ---
 
 ## 🎯 En lo que me enfoco hoy en día
+* 🐳 **Especializándome en Docker:** Aprendiendo a implementar contenedores, optimizar entornos de desarrollo y desplegar aplicaciones de forma segura.
 * 🧪 **Testing en Java:** Aplicando **Mockito** para simular comportamientos y garantizar la calidad de los desarrollos mediante pruebas unitarias sólidas.
 * 📈 **Observabilidad y Monitoreo:** Integrando herramientas como **Grafana** para analizar el rendimiento del software y detectar anomalías.
-* 🐳 **Especializándome en Docker:** Aprendiendo a implementar contenedores, optimizar entornos de desarrollo y desplegar aplicaciones de forma segura.
 * 🗄️ **Dominando Oracle DB:** Expandiendo mis habilidades en bases de datos relacionales orientadas al sector empresarial.
 
 ---
